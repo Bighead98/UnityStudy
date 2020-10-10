@@ -1,0 +1,12 @@
+/Users/hojeonglee/Desktop/coding/csccc/bin/Debug/netcoreapp3.1/csccc.deps.json
+/Users/hojeonglee/Desktop/coding/csccc/bin/Debug/netcoreapp3.1/csccc.runtimeconfig.json
+/Users/hojeonglee/Desktop/coding/csccc/bin/Debug/netcoreapp3.1/csccc.runtimeconfig.dev.json
+/Users/hojeonglee/Desktop/coding/csccc/bin/Debug/netcoreapp3.1/csccc.dll
+/Users/hojeonglee/Desktop/coding/csccc/bin/Debug/netcoreapp3.1/csccc.pdb
+/Users/hojeonglee/Desktop/coding/csccc/obj/Debug/netcoreapp3.1/csccc.csprojAssemblyReference.cache
+/Users/hojeonglee/Desktop/coding/csccc/obj/Debug/netcoreapp3.1/csccc.AssemblyInfoInputs.cache
+/Users/hojeonglee/Desktop/coding/csccc/obj/Debug/netcoreapp3.1/csccc.AssemblyInfo.cs
+/Users/hojeonglee/Desktop/coding/csccc/obj/Debug/netcoreapp3.1/csccc.csproj.CoreCompileInputs.cache
+/Users/hojeonglee/Desktop/coding/csccc/obj/Debug/netcoreapp3.1/csccc.dll
+/Users/hojeonglee/Desktop/coding/csccc/obj/Debug/netcoreapp3.1/csccc.pdb
+/Users/hojeonglee/Desktop/coding/csccc/obj/Debug/netcoreapp3.1/csccc.genruntimeconfig.cache
